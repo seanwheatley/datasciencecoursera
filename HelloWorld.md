@@ -1,1 +1,1 @@
-## Thsi is a amrkdown file
+## Thsi is a markdown file
